@@ -2687,6 +2687,11 @@ expo-modules-core@~0.2.0:
   resolved "https://registry.yarnpkg.com/expo-modules-core/-/expo-modules-core-0.2.0.tgz#68e5b6e53d0afbf8d131578831aed657589a2d42"
   integrity sha512-inpfZ5X/BaTtbj2wG9PA9AC0MN8VyId6KSRlVuEg7+ziurHBy/kKDFxpOddUokhwiln2uhoYPSStJjR/tKypdw==
 
+expo-sms@^9.2.3:
+  version "9.2.3"
+  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-9.2.3.tgz#0eff72e0e799bc1d9496d4236af82c46cc2cbced"
+  integrity sha512-zxCbDHy6jBVyfntF0MQwIEAL13pPbvoMTjvh9qsEvwhZ3wGgLWwhdic2xKeM5vyfst2yN1RVcGYpvlRz4P5dPQ==
+
 expo-status-bar@~1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-1.0.4.tgz#d8a4c4418b5868c1606969b12bdee85b6fa7d8a4"
